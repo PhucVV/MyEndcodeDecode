@@ -1,0 +1,9 @@
+D:\My App\MyEndcodeDecode\MyEndcodeDecode\bin\Release\MyEndcodeDecode.exe.config
+D:\My App\MyEndcodeDecode\MyEndcodeDecode\bin\Release\MyEndcodeDecode.exe
+D:\My App\MyEndcodeDecode\MyEndcodeDecode\bin\Release\MyEndcodeDecode.pdb
+D:\My App\MyEndcodeDecode\MyEndcodeDecode\obj\Release\MyEndcodeDecode.csprojResolveAssemblyReference.cache
+D:\My App\MyEndcodeDecode\MyEndcodeDecode\obj\Release\MyEndcodeDecode.Form1.resources
+D:\My App\MyEndcodeDecode\MyEndcodeDecode\obj\Release\MyEndcodeDecode.Properties.Resources.resources
+D:\My App\MyEndcodeDecode\MyEndcodeDecode\obj\Release\MyEndcodeDecode.csproj.GenerateResource.Cache
+D:\My App\MyEndcodeDecode\MyEndcodeDecode\obj\Release\MyEndcodeDecode.exe
+D:\My App\MyEndcodeDecode\MyEndcodeDecode\obj\Release\MyEndcodeDecode.pdb
